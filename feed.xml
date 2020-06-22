@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
+  <title>Channel</title>
+   <link>https://www.link.com</link>
+   <description>Description</description>
   <item>
   <title>ITAcademy Home Page</title>
   <link>https://www.it-akademija.com/</link>
